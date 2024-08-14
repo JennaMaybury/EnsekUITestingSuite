@@ -8,6 +8,7 @@ EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{39BD2A39-B178-4C93-B1F9-E300CEB2FD66}"
 	ProjectSection(SolutionItems) = preProject
 		env.runsettings = env.runsettings
+		EnsekUITestingSuite\specflow.json = EnsekUITestingSuite\specflow.json
 	EndProjectSection
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EnsekApiTestingSuite", "EnsekApiTestingSuite\EnsekApiTestingSuite.csproj", "{F2B6A3E5-2E96-4AC1-AF9B-C4B5BC846C4F}"

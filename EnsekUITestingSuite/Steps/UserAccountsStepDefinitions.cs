@@ -81,8 +81,6 @@ namespace EnsekUITestingSuite.Steps
             CreateAccountTestData(valid);
             Page.AccountRegistration.PopulatePassword(TestDataProperties.Password);
 
-
-
         }
 
         [When(@"User confrims '([^']*)' password")]
@@ -119,9 +117,6 @@ namespace EnsekUITestingSuite.Steps
             Page.AccountRegistration.ErrorValidation(errorExpected);
 
         }
-
-
-
 
     }
 }
